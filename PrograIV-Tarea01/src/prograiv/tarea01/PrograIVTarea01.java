@@ -18,7 +18,7 @@ public class PrograIVTarea01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        JOptionPane.showMessageDialog(null, "HOLA MUNDO");
+        JOptionPane.showMessageDialog(null, "---- Hola Mundo ----");
     }
     
 }
