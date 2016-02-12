@@ -5,6 +5,8 @@
  */
 package prograiv.tarea01;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author leo
@@ -16,6 +18,7 @@ public class PrograIVTarea01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "HOLA MUNDO");
     }
     
 }
